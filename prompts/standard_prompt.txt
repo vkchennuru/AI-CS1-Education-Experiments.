@@ -1,0 +1,11 @@
+Write a Python 3 program for the following introductory programming problem.
+
+Requirements:
+- Produce correct and executable Python code.
+- Read input from standard input.
+- Print output to standard output.
+- Do not include explanations.
+- Output only Python code.
+
+Problem:
+{problem_statement}
