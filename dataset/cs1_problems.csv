@@ -1,1 +1,11 @@
-problem_id,topic,difficulty,problem_statement,expected_algorithm,concepts
+problem_id,Topic,Difficulty,Problem Statement,Expected Algorithm,Concepts
+1,Variables,Easy,Read two integers and print their sum.,Addition,"Variables, Input, Output"
+2,Operators,Easy,Read the radius of a circle and calculate its area.,Formula,Operators
+3,If,Easy,Find the largest of two integers.,Selection,If
+4,Loops,Easy,Print numbers from 1 to N.,Iteration,For Loop
+5,Loops,Easy,Compute the factorial of N.,Iteration,Loop
+6,Functions,Medium,Write a function to determine whether a number is prime.,Function,Functions
+7,Lists,Medium,Find the largest element in a list.,Traversal,Lists
+8,Strings,Medium,Count the number of vowels in a string.,Character Traversal,Strings
+9,Dictionaries,Medium,Count the frequency of each word in a sentence.,Dictionary,Dictionary
+10,Recursion,Medium,Compute the nth Fibonacci number using recursion.,Recursive Algorithm,Recursion
