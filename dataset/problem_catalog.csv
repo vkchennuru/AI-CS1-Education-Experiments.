@@ -1,1 +1,11 @@
 benchmark_id,title,topic,learning_outcome,bloom_level,difficulty,programming_construct,problem_type,computational_thinking,reference_solution_strategy
+VAR-001,Sum of Two Integers,Variables and Input/Output,Read two integers and compute their sum,Apply,Easy,"Variables, Input/Output, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-002,Difference of Two Integers,Variables and Input/Output,Read two integers and compute their difference,Apply,Easy,"Variables, Input/Output, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-003,Product of Two Integers,Variables and Input/Output,Read two integers and compute their product,Apply,Easy,"Variables, Input/Output, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-004,Integer Quotient and Remainder,Variables and Input/Output,Compute quotient and remainder,Apply,Easy,"Variables, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-005,Area of a Rectangle,Variables and Input/Output,Compute area using a mathematical formula,Apply,Easy,"Variables, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-006,Perimeter of a Rectangle,Variables and Input/Output,Compute perimeter using a mathematical formula,Apply,Easy,"Variables, Operators",Numerical Computation,Algorithm Design,Arithmetic
+VAR-007,Celsius to Fahrenheit Conversion,Variables and Input/Output,Convert temperature units,Apply,Easy,"Variables, Operators",Numerical Computation,Abstraction,Formula Application
+VAR-008,Fahrenheit to Celsius Conversion,Variables and Input/Output,Convert temperature units,Apply,Easy,"Variables, Operators",Numerical Computation,Abstraction,Formula Application
+VAR-009,Simple Interest Calculator,Variables and Input/Output,Compute simple interest,Apply,Easy,"Variables, Operators",Numerical Computation,Algorithm Design,Formula Application
+VAR-010,Average of Three Numbers,Variables and Input/Output,Compute the arithmetic mean,Apply,Easy,"Variables, Operators",Numerical Computation,Algorithm Design,Arithmetic
