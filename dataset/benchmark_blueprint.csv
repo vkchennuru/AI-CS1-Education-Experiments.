@@ -1,1 +1,16 @@
-blueprint_id,topic,bloom_level,difficulty,problem_type,computational_thinking,number_of_problems
+blueprint_id,topic,number_of_problems,Justification
+1,Variables and Input/Output,10,Fundamental programming concepts
+2,Data Types,8,Essential language foundations
+3,Operators,8,Arithmetic and logical expressions
+4,Selection,12,Decision-making skills
+5,Loops,18,Core iterative programming
+6,Functions,18,Program modularization
+7,Strings,12,Text processing
+8,Lists,15,Sequential data structures
+9,Tuples,5,Immutable collections
+10,Dictionaries,10,Key-value data structures
+11,Sets,5,Unique element processing
+12,File Handling,10,Persistent storage
+13,Exception Handling,5,Robust programming
+14,Recursion,7,Recursive thinking
+15,Basic OOP,7,Object-oriented fundamentals
