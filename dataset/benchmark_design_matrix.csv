@@ -1,0 +1,16 @@
+matrix_id,topic,bloom_level,difficulty,problem_type,computational_thinking,problems_required
+1,Variables and Input/Output,Remember,Easy,Numerical Computation,Algorithm Design,2
+2,Variables and Input/Output,Understand,Easy,Numerical Computation,Abstraction,2
+3,Variables and Input/Output,Apply,Easy,Numerical Computation,Algorithm Design,4
+4,Variables and Input/Output,Analyze,Medium,Decision Making,Pattern Recognition,2
+5,Data Types,Understand,Easy,Numerical Computation,Abstraction,2
+6,Data Types,Apply,Easy,Numerical Computation,Algorithm Design,3
+7,Data Types,Analyze,Medium,Decision Making,Pattern Recognition,3
+8,Operators,Apply,Easy,Numerical Computation,Algorithm Design,4
+9,Operators,Analyze,Medium,Decision Making,Abstraction,2
+10,Selection,Apply,Easy,Decision Making,Algorithm Design,5
+11,Selection,Analyze,Medium,Decision Making,Pattern Recognition,4
+12,Selection,Evaluate,Hard,Real-World Programming,Decomposition,3
+13,Loops,Apply,Easy,Pattern Generation,Algorithm Design,8
+14,Loops,Analyze,Medium,Numerical Computation,Pattern Recognition,6
+15,Loops,Evaluate,Hard,Simulation,Decomposition,4
